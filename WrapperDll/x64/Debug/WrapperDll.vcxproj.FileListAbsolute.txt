@@ -1,0 +1,4 @@
+D:\project\demos\CallNetDemo\x64\Debug\Ijwhost.dll
+D:\project\demos\CallNetDemo\x64\Debug\WrapperDll.deps.json
+D:\project\demos\CallNetDemo\x64\Debug\WrapperDll.runtimeconfig.json
+D:\project\demos\CallNetDemo\WrapperDll\x64\Debug\WrapperDll.vcxproj.AssemblyReference.cache

@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  StringUtils.cpp
+  MySearchWrapper.obj : 遇到了 MSIL 模块；对 MSIL 禁用了增量链接；正在执行完全链接
+    正在创建库 D:\project\demos\CallNetDemo\DLL\bin\Debug\net8.0\WrapperDll.lib 和对象 D:\project\demos\CallNetDemo\DLL\bin\Debug\net8.0\WrapperDll.exp
+  WrapperDll.vcxproj -> D:\project\demos\CallNetDemo\DLL\bin\Debug\net8.0\WrapperDll.dll

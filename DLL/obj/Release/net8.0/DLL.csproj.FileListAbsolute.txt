@@ -1,0 +1,11 @@
+D:\project\demos\CallNetDemo\DLL\bin\Release\net8.0\DLL.deps.json
+D:\project\demos\CallNetDemo\DLL\bin\Release\net8.0\DLL.dll
+D:\project\demos\CallNetDemo\DLL\bin\Release\net8.0\DLL.pdb
+D:\project\demos\CallNetDemo\DLL\obj\Release\net8.0\DLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\demos\CallNetDemo\DLL\obj\Release\net8.0\DLL.AssemblyInfoInputs.cache
+D:\project\demos\CallNetDemo\DLL\obj\Release\net8.0\DLL.AssemblyInfo.cs
+D:\project\demos\CallNetDemo\DLL\obj\Release\net8.0\DLL.csproj.CoreCompileInputs.cache
+D:\project\demos\CallNetDemo\DLL\obj\Release\net8.0\DLL.dll
+D:\project\demos\CallNetDemo\DLL\obj\Release\net8.0\refint\DLL.dll
+D:\project\demos\CallNetDemo\DLL\obj\Release\net8.0\DLL.pdb
+D:\project\demos\CallNetDemo\DLL\obj\Release\net8.0\ref\DLL.dll
